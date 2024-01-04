@@ -1,0 +1,14 @@
+E:\Repos\ShapeAreas\bin\Debug\net8.0\ShapeAreas.exe
+E:\Repos\ShapeAreas\bin\Debug\net8.0\ShapeAreas.deps.json
+E:\Repos\ShapeAreas\bin\Debug\net8.0\ShapeAreas.runtimeconfig.json
+E:\Repos\ShapeAreas\bin\Debug\net8.0\ShapeAreas.dll
+E:\Repos\ShapeAreas\bin\Debug\net8.0\ShapeAreas.pdb
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ShapeAreas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ShapeAreas.AssemblyInfoInputs.cache
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ShapeAreas.AssemblyInfo.cs
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ShapeAreas.csproj.CoreCompileInputs.cache
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ShapeAreas.dll
+E:\Repos\ShapeAreas\obj\Debug\net8.0\refint\ShapeAreas.dll
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ShapeAreas.pdb
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ShapeAreas.genruntimeconfig.cache
+E:\Repos\ShapeAreas\obj\Debug\net8.0\ref\ShapeAreas.dll
